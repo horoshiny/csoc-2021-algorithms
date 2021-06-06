@@ -1,0 +1,5 @@
+#Binary Search
+
+Step 1: Start from the left side of the list.
+Step 2: Begin with leftmost element of given array and one by one compare element x with each element of array.
+Step 3: If x doesn't match with any of elements in arr, return -1 or element not found. 
