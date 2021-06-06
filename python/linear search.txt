@@ -1,0 +1,4 @@
+#Linear Search
+Step 1: Start from the leftmost element of the given list and one by one compare element 'x' wth each element of list.
+Step 2: If 'x' matches with any of the elements, return the index value.
+Step 3: If 'x' doesn't match with any of the element, return -1 or element not found. 
